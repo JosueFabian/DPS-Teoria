@@ -26,7 +26,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Convertidor de monedas</h1>
+      <h1>Conversor de divisas</h1>
 
       <p>Dolar: {dolar}</p>
       <p>Euro: {euro}</p>
